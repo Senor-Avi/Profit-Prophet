@@ -24,8 +24,5 @@ This notebook explores the complete predictive modeling process, including compr
 * Jupyter Notebook / Google Colab
 * pandas, scikit-learn, matplotlib, seaborn, numpy
 
-## Author
-* Senor-Avi
-
 ---
 **Note:** This README provides an overview of the project. For detailed code and analysis, please refer to the `Profit Prophet.ipynb` notebook.
